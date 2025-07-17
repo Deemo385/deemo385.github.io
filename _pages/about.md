@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bowen Sun (孙 博文)"
+title: "Bowen Sun"
 author_profile: true
 redirect_from: 
   - /about/

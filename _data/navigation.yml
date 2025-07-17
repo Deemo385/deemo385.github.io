@@ -25,6 +25,9 @@ main:
     
   - title: "CV"
     url: /assets/CV_Bowen Sun.pdf
+
+  - title: "Bilibili"
+    url: https://space.bilibili.com/28732825
     
   # - title: "CV"
   #   url: /cv-json/

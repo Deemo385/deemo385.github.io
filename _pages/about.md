@@ -11,14 +11,16 @@ A second-year Doctor of Engineering (D.Eng) student at the [Institute for Networ
 
 [Here](../assets/CV_Bowen Sun.pdf)'s my CV, and [Email](mailto:sbw24@mails.tsinghua.edu.cn).
 
-### Education
+## Education
 
 2020.08 - 2024.07  [Department of Automation](https://www.au.tsinghua.edu.cn/), Tsinghua University
 
 2024.08 - Present  Institute for Network Sciences and Cyberspace, Tsinghua University
 
-### Publications
+## Publications
 
 - **Small-scale LEO Satellite Networking for Global-scale Demands**
+
 Yuanjie Li, Yimei Chen, Jiabo Yang, Jinyao Zhang, **Bowen Sun**, Lixin Liu, Hewu Li, Jianping Wu, Zeqi Lai, Qian Wu, Jun Liu
+
 To appear at ACM Special Interest Group on Data Communication **(SIGCOMM'25)**
